@@ -10,11 +10,12 @@ const About = () => {
         instructors and up-to-date curriculum to ensure a rewarding learning
         experience.
       </p>
-      <br />
-      <hr />
+      <hr className="m-5"/>
       <h1 className="text-3xl mb-4 font-bold">Our Mission:</h1>
       <p>To make quality education accessible to everyone, everywhere.</p>
-      <hr />
+
+      <hr className="m-4" />
+
       <h1 className="text-3xl mb-4 font-bold">Our Goals:</h1>
 
       <ul>
